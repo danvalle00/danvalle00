@@ -52,6 +52,6 @@
 
 <div align="center">
   <h2>Thanks for visiting my Profile~~</h2>
-  <p >I'm kinda new in GitHub and Programming Stuff, but i am very happy to start!</p>
+  <p >I'm kinda new in GitHub and Programming stuff, but i am very happy to start!</p>
   <img alt="GIF" src="https://thumbs.gfycat.com/GiddyFavorableEgg-size_restricted.gif">
  </div>
