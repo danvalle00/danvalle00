@@ -37,7 +37,7 @@
 <br>
 
 ### <a href="https://twitter.com/Oyhera" target="_blank">Twitter</a>
-### <a href="https://www.linkedin.com/in/daniel-do-valle-217483234">LinkedIn</a>
+### <a href="https://www.linkedin.com/in/daniel-do-valle-217483234" target="blank">LinkedIn</a>
 ### <a href="mailto:danieldovalle10@gmail.com" target="_blank">Gmail</a>
 ### <a href="https://twitch.tv/yheratv" target="_blank">Twitch</a>
 
