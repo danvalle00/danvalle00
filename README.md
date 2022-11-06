@@ -7,9 +7,9 @@
 <br>
 <br>
 
-# About Me 🛰️:
+<h1 align="center">About Me 🛰️:</h1>
 
-## I'm 22 years old Computer Science student from Brazil 🇧🇷
+<h2>I'm 22 years old Computer Science student from Brazil 🇧🇷</h2>
 
 <img hight="400" width="500" alt="jpeg" align="right" src="https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/460cc6b844b746259b823b17f20cb7cfbbfe1e4d6665ffdd7bb348f0ac76fe7c_1.jpg">
 
@@ -30,10 +30,8 @@
 
 <br>
 <br>
-
-## - How to Find Me :
+<h1 align="center">How to Find me 🔍:</h1>
 <img height="400" width="500" alt="GIF" align="right" src="https://i.kym-cdn.com/photos/images/newsfeed/000/730/678/bee.gif">
-<br>
 <br>
 <br>
 
