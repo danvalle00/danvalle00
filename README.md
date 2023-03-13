@@ -39,17 +39,3 @@
 ### <a href="https://www.linkedin.com/in/daniel-do-valle-217483234" target="blank">LinkedIn</a>
 ### <a href="mailto:danieldovalle10@gmail.com" target="_blank">Gmail</a>
 ### <a href="https://twitch.tv/yheratv" target="_blank">Twitch</a>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div align="center">
-  <h2>Thanks for visiting my Profile~~</h2>
-  <p >I'm kinda new in GitHub and Programming stuff, but i am very happy to start!</p>
-  <img alt="GIF" src="https://thumbs.gfycat.com/GiddyFavorableEgg-size_restricted.gif">
- </div>
