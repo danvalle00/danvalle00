@@ -9,7 +9,9 @@
 
 <h1 align="center">About Me 🛰️:</h1>
 
-<h2>I'm 22 years old Computer Science student from Brazil 🇧🇷</h2>
+<h2>I'm 22 years old Computer Science student from Brazil 🇧🇷 <br>
+  And i have an ambition to become a Game Developer someday</h2>
+
 
 <img hight="400" width="500" alt="jpeg" align="right" src="https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/460cc6b844b746259b823b17f20cb7cfbbfe1e4d6665ffdd7bb348f0ac76fe7c_1.jpg">
 
