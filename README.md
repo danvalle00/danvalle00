@@ -9,7 +9,7 @@
 
 <h1 align="center">About Me 🛰️:</h1>
 
-<h2>I'm 22 years old Computer Science student from Brazil 🇧🇷 <br>
+<h2>I'm 23 years old Computer Science student from Brazil 🇧🇷 <br>
   And i have an ambition to become a Game Developer someday</h2>
 
 
